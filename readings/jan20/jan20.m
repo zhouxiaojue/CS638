@@ -1,0 +1,1 @@
+header=analyze75info(left_amygdala.hdr);
